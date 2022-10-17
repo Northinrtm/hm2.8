@@ -8,6 +8,7 @@ public class Main {
             System.out.println(p.getName() + " уже куплен");
         }
     }
+
     public static void main(String[] args) {
         Main m=new Main();
         Products apple = new Products("Яблоки", 11.11f, 1.11f);
